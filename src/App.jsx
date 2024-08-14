@@ -169,7 +169,7 @@ const itemsData = [
   },
   {
     id: 'aboutMe',
-    title: 'Jai Joshi',
+    title: 'Dushmanta K Sahu',
     description: 'About Me',
     image: assets.jj_pic,
     styles: { width: '220px', height: '370px', borderRadius: '10px', border: '4px solid #004080', boxShadow: '0px 0px 30px 0px #004080' }

@@ -149,7 +149,7 @@ const DeckProject = ({
                   <img src={assets.linkedin_logo} alt="LinkedIn Link" style={{ width: '130px' }} />
                 </a>
                 <br />
-                <a href="mailto:jj.joshijai@gmail.com" target="_blank" rel="noopener noreferrer" className={items[i].centered ? '' : 'disabled'}>
+                <a href="mailto:dushmanta@gmail.com" target="_blank" rel="noopener noreferrer" className={items[i].centered ? '' : 'disabled'}>
                   <img src={assets.email_logo} alt="Email" style={{ width: '90px' }} />
                 </a>
               </div> :

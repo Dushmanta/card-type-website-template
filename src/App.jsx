@@ -308,7 +308,7 @@ const App = () => {
   return (
     <div className="app">
       <div className='header-div'>
-        <h1 className="header">Jai Joshi</h1>
+        <h1 className="header">Dushmanta</h1>
         {/* <img src={assets.name_text} alt=""/> */}
       </div>
       <div className="container">
